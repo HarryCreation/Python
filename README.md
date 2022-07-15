@@ -12,7 +12,7 @@ For Creating the sshkey use
 [ ssh-keygen -t rsa -b 4096 -C "hvwaghela51@gmail.com" ]
 
 
-for seeing the sshkey file and public file
+for seeing the sshkey file and public file.
 ----   dir | finstr (filename that u have use during creating the file.)
 
 for seeinf the file or opening the file.
