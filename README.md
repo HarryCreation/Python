@@ -13,7 +13,7 @@ For Creating the sshkey use
 
 
 for seeing the sshkey file and public file
-dir | finstr (filename that u have use during creating the file.)
+----- dir | finstr (filename that u have use during creating the file.)
 
 for seeinf the file or opening the file.
-type (filename.xtension)
+----------- type (filename.xtension)
