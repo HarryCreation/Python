@@ -9,7 +9,7 @@ All Version Requirement Will Add in Here.
 ## GIT
 
 For Creating the sshkey use 
-[ ssh-keygen -t rsa -b 4096 -C "hvwaghela51@gmail.com" ]
+[ ssh-keygen -t rsa  -b 4096 -C "hvwaghela51@gmail.com" ]
 
 
 for seeing the sshkey file and public file.
