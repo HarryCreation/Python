@@ -17,3 +17,13 @@ dir | finstr (filename that u have use during creating the file.)
 
 for seeinf the file or opening the file.
 type (filename.xtension)
+
+
+# Virtual Environment
+Install the virtualenv to create v-Environment -------------------
+pip install virtualenv
+
+
+
+To run the v-Environment-------------------------
+./venv/Scripts/activate
