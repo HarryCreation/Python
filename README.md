@@ -5,7 +5,7 @@ In this Repo -- Python Full Stack Work is done like ML, DataScience, Python Conp
 ##
 All Version Requirement are added in Requirement.txt so just run below code in your  v-Environment 
 -------pip install -r requirement.txt
-after running of above code all the required pip library will install in your v-Environment. 
+------------------after running of this code all the required pip library will install in your v-Environment. 
 
 
 ## GIT
