@@ -28,5 +28,9 @@ pip install virtualenv
 After the installation of pip virtualenv just make the v-Environment in the folder that you want 
 and then run the below code.
 
+To Install env folder in particular Project use -----------------------------------
+
+python -m venv env
+
 To run the v-Environment-------------------------
 ./venv/Scripts/activate
